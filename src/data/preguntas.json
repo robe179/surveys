@@ -1,0 +1,14 @@
+[
+  {
+    "id":1,
+    "pregunta": "¿Cómo te llamas?"
+  },
+  {
+    "id":2,
+    "pregunta": "¿Donde vives?"
+  },
+  {
+      "id":3,
+      "pregunta": "¿Cuantos años tienes?"
+    }
+]
